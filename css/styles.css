@@ -639,10 +639,6 @@ body {
   text-align: center;
 }
 
-/* .footer-form-label {
-  width: 398px;
-} */
-
 .footer-form-input {
   padding-left: 16px;
   margin-bottom: 16px;
@@ -1354,8 +1350,6 @@ body {
 .hero-button:focus {
   background-color: var(--button-color-pressed);
 }
-
-/* */
 
 /* features */
 
